@@ -1,109 +1,66 @@
 {
   "Ads": [
     {
-      "select_ads": "UNITY",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
       "status_app": "0",
-      "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-2979835879401254/6593696183",
-      "admob_bannerid": "ca-app-pub-2979835879401254/5388425725",
-      "admob_openid": "ca-app-pub-2979835879401254/1149797814",
-      "startappid": "201669628",
-      "fan_inter": "YOUR_PLACEMENT_ID",
-      "fan_banner": "YOUR_PLACEMENT_ID",
-      "mopub_banner": "e8e6d61a583543e0b862a2b8f35ee9a0",
-      "mopub_inter": "02b09a2ddbc04fe9a39f9bdcc1a33c2f",
-      "unityID":"4230167",
-      "unity_inter":"Inter",
-      "unity_banner":"Banner",
-      "packagename": "com.puzzle.fidgetpopit"
-    
+      "link_redirect": "https://"
     }
   ],
 
  "Wallpaper":
   [
      {
-      "title":"Pop Circle",
-      "image":"file:///android_asset/1.jpg"
+      "title": "1",
+      "image": "file:///android_asset/1.jpg"
     },
     {
-      "title": "Pop Square",
+      "title": "2",
       "image": "file:///android_asset/2.jpg"
     },
     {
-      "title":"Ice Cream",
-      "image":"file:///android_asset/3.jpg"
+      "title": "3",
+      "image": "file:///android_asset/3.jpg"
     },
     {
-      "title":"Tower",
-      "image":"file:///android_asset/4.jpg"
+      "title": "4",
+      "image": "file:///android_asset/4.jpg"
     },
     {
-      "title":"Love",
-      "image":"file:///android_asset/5.jpg"
+      "title": "5",
+      "image": "file:///android_asset/5.jpg"
     },
     {
-      "title":"Rainbow",
-      "image":"file:///android_asset/6.jpg"
-    },
-	{
-      "title":"Duck",
-      "image":"file:///android_asset/7.jpg"
+      "title": "6",
+      "image": "file:///android_asset/6.jpg"
     },
     {
-      "title":"Bubble",
-      "image":"file:///android_asset/8.jpg"
+      "title": "7",
+      "image": "file:///android_asset/7.png"
     },
     {
-      "title":"Colorful",
-      "image":"file:///android_asset/9.jpg"
-    },
-	{
-      "title":"Unicorn",
-      "image":"file:///android_asset/10.jpg"
-    }
-  ,
-    {
-      "title":"Fun",
-      "image":"file:///android_asset/11.jpg"
+      "title": "8",
+      "image": "file:///android_asset/8.jpg"
     },
     {
-      "title":"Bright",
-      "image":"file:///android_asset/12.jpg"
-    },
-	{
-      "title":"Relax",
-      "image":"file:///android_asset/13.jpg"
-    }
-  ,
-    {
-      "title":"Pink Love",
-      "image":"file:///android_asset/14.jpg"
+      "title": "9",
+      "image": "file:///android_asset/9.jpg"
     },
     {
-      "title":"Cute Love",
-      "image":"file:///android_asset/15.jpg"
-    },
-	 {
-      "title":"Cute Square",
-      "image":"file:///android_asset/16.jpg"
-    },
-	{
-      "title":"Play",
-      "image":"file:///android_asset/17.jpg"
-    }
-  ,
-    {
-      "title":"Imposter",
-      "image":"file:///android_asset/18.jpg"
-    },
-    {
-      "title":"Lovely",
-      "image":"file:///android_asset/19.jpg"
-    },
-	{
-      "title":"Pop It",
-      "image":"file:///android_asset/20.jpg"
+      "title": "10",
+      "image": "file:///android_asset/10.jpg"
     }
   ]
 }
