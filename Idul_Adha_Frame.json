@@ -21,22 +21,22 @@
      "Categories": [
     {
       "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
+      "image_link": "frame/adha_1.png"
 
     },
     {
-      "category": "Hari Nasional",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+      "category": "Hari Raya",
+      "image_link": "frame/adha_2.png"
 
     },
     {
-      "category": "Pendidikan",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+      "category": "Hari Raya",
+      "image_link": "frame/adha_3.png"
 
     },
     {
-      "category": "Lainnya",
-      "image_link": "frame/ribut.webp"
+      "category": "Hari Raya",
+      "image_link": "frame/adha_4.png"
 
     }
   ],
