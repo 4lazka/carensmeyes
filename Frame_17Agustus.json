@@ -1,0 +1,132 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "HUT RI 77",
+      "image_link": "frame/RI_14.png"
+
+    },
+    {
+      "category": "HUT RI 77",
+      "image_link": "frame/RI_14.png"
+
+    },
+    {
+      "category": "HUT RI 77",
+      "image_link": "frame/RI_14.png"
+
+    },
+    {
+      "category": "HUT RI 77",
+      "image_link": "frame/RI_14.png"
+
+    }
+  ],
+
+  "Item": [
+    {
+      "id": 1,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_1.png"
+    },
+    {
+      "id": 2,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_2.png"
+    },
+    {
+      "id": 3,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_3.png"
+    },
+    {
+      "id": 4,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_4.png"
+    },
+    {
+      "id": 5,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_5.png"
+    },
+    {
+      "id": 6,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_6.png"
+    },
+    {
+      "id": 7,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_7.png"
+    },
+    {
+      "id": 8,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_8.png"
+    },
+    {
+      "id": 9,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_9.png"
+    },
+    {
+      "id": 10,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_10.png"
+    },
+    {
+      "id": 11,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_11.png"
+    },
+    {
+      "id": 12,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_12.png"
+    },
+    {
+      "id": 13,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_13.png"
+    },
+    {
+      "id": 14,
+      "category": "HUT RI",
+      "title": "17 Agustus",
+      "image_link": "frame/RI_14.png"
+    }
+
+
+  ]
+}
